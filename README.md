@@ -1,4 +1,5 @@
 ### Hi there My Name is Roshan Lamichhane 👋
+                        Ro-Sun La-Me-Cha-Nay
 
 - 🏫 I’m currently a college student (freshmen) and am doing computer science as my major.
 - 👯 I’m looking to collaborate on Machine Learning Projects as well as any other projects.
