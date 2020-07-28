@@ -1,6 +1,8 @@
 ### Hi there My Name is Roshan Lamichhane 👋
                         Ro-Sun La-Me-Cha-Nay
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=roshanlam&label=Views&color=blue&style=plastic" alt="roshanlam" /> </p>
+
 - 🏫 I’m currently a college student (freshmen) and am doing computer science as my major.
 - 👯 I’m looking to collaborate on Machine Learning Projects as well as any other projects.
 - 💬 Ask me about Java, Python, C, C++, JavaScript, PHP, C#, Machine Learning, and Mathematics
