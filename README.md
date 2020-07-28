@@ -7,7 +7,6 @@
 - 👯 I’m looking to collaborate on Machine Learning Projects as well as any other projects.
 - 💬 Ask me about Technology, Mathematics, Physics & Biology 
 - 📫 How to reach me: Add Me On Snapchat: nepalidj
-- 😄 Pronouns: Ro-Sun La-Me-Cha-Nay
 - ⚡ Fun facts: I am a Big Michael Jackson Fan | I love to dance | I can dance Like MJ | I first learned to code when I was 8 years old
 
 **Languages and Tools:**  
@@ -36,7 +35,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ai/ai.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/math/math.png"></code>
 
 
 <div align="center">
