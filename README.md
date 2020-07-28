@@ -44,13 +44,13 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=roshanlam&show_icons=true&theme=dracula&line_height=27" alt="Roshan's github stats"/>
 </a>
   </div>
-  <div align="center">
+  <div align="left">
 <a href="https://github.com/roshanlam/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roshanlam&repo=ReadMeTemplate&theme=dark" />
 </a>
   </div>
  
-   <div align="center">
+   <div align="right">
 <a href="https://github.com/roshanlam/YogaAI">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roshanlam&repo=YogaAI&theme=dark" />
 </a>
