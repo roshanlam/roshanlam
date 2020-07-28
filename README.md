@@ -33,26 +33,28 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
 
-<style>
-  code{
-  background: white;
-  }
-</style>
-
+<div align="center">
 <a href="https://github.com/roshanlam">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshanlam&theme=dark&hide_langs_below=1" />
 </a>
+  </div>
+  
+ <div align="center">
 <a href="https://github.com/roshanlam">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=roshanlam&show_icons=true&theme=dracula&line_height=27" alt="Roshan's github stats"/>
 </a>
+  </div>
+  <div align="center">
 <a href="https://github.com/roshanlam/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roshanlam&repo=ReadMeTemplate&theme=dark" />
-
 </a>
+  </div>
+ 
+   <div align="center">
 <a href="https://github.com/roshanlam/YogaAI">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roshanlam&repo=YogaAI&theme=dark" />
 </a>
-
+</div>
 <div align="center">
 
 ### Show some ❤️ by starring some of my repositories!
