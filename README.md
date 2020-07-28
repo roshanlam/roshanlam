@@ -50,7 +50,7 @@
 </a>
   </div>
  
-   <div align="right">
+   <div align="left">
 <a href="https://github.com/roshanlam/YogaAI">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roshanlam&repo=YogaAI&theme=dark" />
 </a>
