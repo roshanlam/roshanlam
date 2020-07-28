@@ -30,7 +30,7 @@
 
 </a>
 <a href="https://github.com/roshanlam/YogaAI">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roshanlam&repo=YogaAIX&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=roshanlam&repo=YogaAI&theme=dark" />
 </a>
 
 <div align="center">
