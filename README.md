@@ -1,5 +1,5 @@
 ### Hi there My Name is Roshan Lamichhane 👋
-                        Ro-Sun La-Me-Cha-Nay
+       Ro-Sun La-Me-Cha-Nay
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roshanlam&label=Views&color=blue&style=plastic" alt="roshanlam" /> </p>
 
