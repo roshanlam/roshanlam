@@ -9,6 +9,11 @@
 - 📫 How to reach me: Add Me On Snapchat: nepalidj
 - ⚡ Fun facts: I am a Big Michael Jackson Fan | I love to dance | I can dance Like MJ | I first learned to code when I was 8 years old
 
+If You like my projects and would like to support me then please feel free to send me some money. 
+
+paypal.me/roshanlamofficial
+
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
