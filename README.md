@@ -51,7 +51,7 @@ https://paypal.me/roshanlamofficial
 </a>
   </div>
   
- <div align="left">
+ <div align="middle">
 <a href="https://github.com/roshanlam">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=roshanlam&show_icons=true&theme=dracula&line_height=27" alt="Roshan's github stats"/>
 </a>
