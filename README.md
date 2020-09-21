@@ -80,12 +80,11 @@
 
 
 <h2 align="center">:zap: Github Stats </h2>
-
+<div algin="center">
 <img align="left" alt="Roshan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=roshanlam&show_icons=true&theme=radical&hide_border=true" />
-
-->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshanlam)](https://github.com/roshanlam/github-readme-stats)<-
-
-
+       
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshanlam)](https://github.com/roshanlam/github-readme-stats)
+</div>
 
 
 [website]: https://www.roshanlamichhane.com/
