@@ -82,7 +82,7 @@
 
 <h2 align="center">:zap: Github Stats </h2>
 
-<img align="center" alt="Roshan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=roshanlam&show_icons=true&theme=radical&hide_border=true" />
+<img align="left" alt="Roshan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=roshanlam&show_icons=true&theme=radical&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshanlam)](https://github.com/roshanlam/github-readme-stats)
 
