@@ -10,11 +10,9 @@
 - ⚡ Fun facts: I am a Big Michael Jackson Fan | I love to dance | I can dance Like MJ | I first learned to code when I was 8 years old
 
 
-<code align="center" href="https://roshanlamichhane.tech"><img height="50" href="https://roshanlamichhane.tech" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"></code>
-
-<img align="center" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />[website]
-<img align="center" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />[twitter]
-<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />[linkedin]
+[<img align="center" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="center" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="center" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
 **Languages and Tools:**  
@@ -82,9 +80,9 @@
 <code><img height="50" src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg"></code>
 
 
-:zap: Github Stats
+<h2 align="center">:zap: Github Stats </h2>
 
-<img align="left" alt="Aarekaz's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=roshanlam&show_icons=true&theme=radical&hide_border=true" />
+<img align="center" alt="Roshan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=roshanlam&show_icons=true&theme=radical&hide_border=true" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshanlam)](https://github.com/roshanlam/github-readme-stats)
 
