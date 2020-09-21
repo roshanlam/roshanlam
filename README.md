@@ -28,7 +28,7 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/dart/dart-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/digitalocean/digitalocean-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/electronjs/electronjs-ar21.svg"></code>
