@@ -61,8 +61,8 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/torproject/torproject-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg"></code>
 <code><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/c-sharp.svg"></code>
-<code><img height="50" src="https://commons.wikimedia.org/wiki/File:Sympy_logo.svg"></code>
-<code><img height="50" src="https://commons.wikimedia.org/wiki/File:Keras_logo.svg"></code>
+<code><img height="50" src="https://github.com/valohai/ml-logos/blob/master/sympy.svg"></code>
+<code><img height="50" src="https://github.com/valohai/ml-logos/blob/master/keras.svg"></code>
 <code><img height="50" src="https://github.com/rdimascio/icons/blob/master/icons/color/photoshop.svg"></code>
 <code><img height="50" src="https://github.com/detain/svg-logos/blob/master/svg/adobe-xd.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/opencv/opencv-ar21.svg"></code>
@@ -70,7 +70,9 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/usepanda/usepanda-ar21.svg"></code>
+<code><img height="50" src="https://github.com/valohai/ml-logos/blob/master/pandas.svg"></code>
+<code><img height="50" src="https://github.com/valohai/ml-logos/blob/master/scipy.svg"></code>
+<code><img height="50" src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg"></code>
 
 
  
