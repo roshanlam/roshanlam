@@ -9,7 +9,7 @@
 - 📫 How to reach me: Add Me On Snapchat: nepalidj
 - ⚡ Fun facts: I am a Big Michael Jackson Fan | I love to dance | I can dance Like MJ | I first learned to code when I was 8 years old
 
-->[<img align="center"   width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] <-
+[<img align="center"   width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img  align="center"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img  align="center"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
@@ -83,7 +83,7 @@
 
 <img align="left" alt="Roshan's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=roshanlam&show_icons=true&theme=radical&hide_border=true" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshanlam)](https://github.com/roshanlam/github-readme-stats)
+->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshanlam)](https://github.com/roshanlam/github-readme-stats)<-
 
 
 
