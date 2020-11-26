@@ -8,12 +8,7 @@
 - 💬 Ask me about Technology, Mathematics, Physics & Biology 
 - 📫 How to reach me: Add Me On Snapchat: nepalidj
 - ⚡ Fun facts: I first learned to code when I was 8 years old
-<details>
-  <summary>Links</summary>
-[<img align="center"   width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img  align="center"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img  align="center"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-</details>
+
 <br />
 <details>
   <summary>Languages and Tools That I Know</summary>
@@ -90,11 +85,6 @@
 </div>
 </details>
 
-
-[website]: https://www.roshanlamichhane.com/
-[twitter]: https://twitter.com/nepalics
-[linkedin]: https://www.linkedin.com/in/roshan-lamichhane/ 
- 
 <div align="center">
 
 ### Show some ❤️ by starring some of my repositories!
