@@ -10,7 +10,7 @@
 - ⚡ Fun facts: I first learned to code when I was 8 years old
 
 <br />
-<p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=roshanlam" alt="roshanlam" /></a> </p>
+<p align="center"> <a><img src="https://github-profile-trophy.vercel.app/?username=roshanlam" alt="roshanlam" /></a> </p>
 <br />
 <details>
   <summary>Languages and Tools That I Know</summary>
