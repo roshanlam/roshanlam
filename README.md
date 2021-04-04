@@ -89,6 +89,6 @@
 
 <div align="center">
 
-### Show some ❤️ by starring some of my repositories!
-
+### Show some ❤️ by starring some of my repositories! 
+### Bitcoin Address: 1MG5wyXms5ERWgYxKj2Y3TzHDYYDBiRGVf
 </div>
