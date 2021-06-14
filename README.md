@@ -13,6 +13,8 @@
 <p align="center"> <a><img src="https://github-profile-trophy.vercel.app/?username=roshanlam" alt="roshanlam" /></a> </p>
 <br />
 
+<p align="center"> <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=roshanlam&theme=merko" alt="roshanlam" /></a> </p>
+
 [![](https://github-readme-streak-stats.herokuapp.com/?user=roshanlam&theme=merko)](https://github-readme-streak-stats.herokuapp.com/?user=roshanlam)
 
 <details>
