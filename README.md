@@ -13,7 +13,7 @@
 <p align="center"> <a><img src="https://github-profile-trophy.vercel.app/?username=roshanlam" alt="roshanlam" /></a> </p>
 <br />
 
-[![trophy](https://github-readme-streak-stats.herokuapp.com/?user=roshanlam&theme=merko)](https://github-readme-streak-stats.herokuapp.com/?user=roshanlam) | [![streak](https://github-profile-trophy.vercel.app/?username=roshanlami&theme=darkhub&no-bg=true&row=2&column=3&margin-w=15&margin-h=15)](https://github-profile-trophy.vercel.app/?username=roshanlam) 
+[![](https://github-readme-streak-stats.herokuapp.com/?user=roshanlam&theme=merko)](https://github-readme-streak-stats.herokuapp.com/?user=roshanlam)
 
 <details>
   <summary>Languages and Tools That I Know</summary>
