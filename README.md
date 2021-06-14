@@ -15,8 +15,6 @@
 
 <p align="center"> <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=roshanlam&theme=merko" alt="roshanlam" /></a> </p>
 
-[![](https://github-readme-streak-stats.herokuapp.com/?user=roshanlam&theme=merko)](https://github-readme-streak-stats.herokuapp.com/?user=roshanlam)
-
 <details>
   <summary>Languages and Tools That I Know</summary>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
