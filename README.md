@@ -3,6 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=roshanlam&label=Views&color=blue&style=plastic" alt="roshanlam" /> </p>
 
+<p align="center"> <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=roshanlam&theme=merko" alt="roshanlam" /></a> </p>
+
+
 - 🏫 I’m currently a college student (freshmen) and am doing computer science as my major.
 - 👯 I’m looking to collaborate on Machine Learning Projects as well as any other projects.
 - 💬 Ask me about Technology, Mathematics, Physics & Biology 
@@ -12,9 +15,6 @@
 <br />
 <p align="center"> <a><img src="https://github-profile-trophy.vercel.app/?username=roshanlam" alt="roshanlam" /></a> </p>
 <br />
-
-<p align="center"> <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=roshanlam&theme=merko" alt="roshanlam" /></a> </p>
-
 <details>
   <summary>Languages and Tools That I Know</summary>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
