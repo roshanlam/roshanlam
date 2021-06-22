@@ -81,13 +81,6 @@
 <code><img height="50" src="https://github.com/valohai/ml-logos/blob/master/matplotlib.svg"></code>
 </details>
 
-<details>
-  <summary>:zap: Github Stats</summary>
-<div algin="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshanlam)](https://github.com/roshanlam/github-readme-stats)
-</div>
-</details>
-
 <div align="center">
 
 ### Show some ❤️ by starring some of my repositories! 
