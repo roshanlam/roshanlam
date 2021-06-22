@@ -84,8 +84,6 @@
 <details>
   <summary>:zap: Github Stats</summary>
 <div algin="center">
-<img alt="Roshan's Github Stats" align="left" src="https://github-readme-stats.codestackr.vercel.app/api?username=roshanlam&show_icons=true&theme=radical&hide_border=true" />
-       
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshanlam)](https://github.com/roshanlam/github-readme-stats)
 </div>
 </details>
