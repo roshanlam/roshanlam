@@ -3,9 +3,6 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=roshanlam&label=Views&color=blue&style=plastic" alt="roshanlam" /> </p>
 
-<p align="center"> <a><img src="https://github-readme-streak-stats.herokuapp.com/?user=roshanlam&theme=merko" alt="roshanlam" /></a> </p>
-
-
 - 🏫 I’m currently a college student (freshmen) and am doing computer science as my major.
 - 👯 I’m looking to collaborate on Machine Learning Projects as well as any other projects.
 - 💬 Ask me about Technology, Mathematics, Physics & Biology 
@@ -84,5 +81,5 @@
 <div align="center">
 
 ### Show some ❤️ by starring some of my repositories! 
-### Bitcoin Address: 1MG5wyXms5ERWgYxKj2Y3TzHDYYDBiRGVf
+### TNBC Account Number: f3e9deb08a73ecfd8d5e3a44bc16f497b81ccd0eb9d23cf2d4207b25b885e98e 
 </div>
