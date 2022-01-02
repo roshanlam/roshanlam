@@ -5,7 +5,7 @@
 
 - 🏫 I’m currently a college student (Sophomore) and am doing computer science as my major.
 - 👯 I’m looking to collaborate on Machine Learning Projects as well as any other projects.
-- 💬 Ask me about Technology, Mathematics, Physics & Biology 
+- 💬 Ask me about Technology, Mathematics & Physics
 - 📫 How to reach me: Add Me On Snapchat: nepalidj
 - ⚡ Fun facts: I first learned to code when I was 8 years old
 
