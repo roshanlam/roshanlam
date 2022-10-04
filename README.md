@@ -79,7 +79,5 @@
 </details>
 
 <div align="center">
-
 ### Show some ❤️ by starring some of my repositories! 
-### TNBC Account Number: f3e9deb08a73ecfd8d5e3a44bc16f497b81ccd0eb9d23cf2d4207b25b885e98e 
 </div>
