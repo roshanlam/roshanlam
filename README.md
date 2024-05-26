@@ -6,7 +6,6 @@
 - 🏫 I recently graduated with a B.S in CS from University of Massachusetts Amherst.
 - 👯 I’m looking to collaborate on Projects.
 - 💬 Ask me about Technology, Mathematics & Physics
-- ⚡ Fun facts: I first learned to code when I was 8 years old
 
 <br />
 <p align="center"> <a><img src="https://github-profile-trophy.vercel.app/?username=roshanlam" alt="roshanlam" /></a> </p>
