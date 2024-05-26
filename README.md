@@ -3,10 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=roshanlam&label=Views&color=blue&style=plastic" alt="roshanlam" /> </p>
 
-- 🏫 I’m currently a college student (Senior) and am doing computer science as my major.
-- 👯 I’m looking to collaborate on Machine Learning Projects as well as any other projects.
+- 🏫 I recently graduated with a B.S in CS from University of Massachusetts Amherst.
+- 👯 I’m looking to collaborate on Projects.
 - 💬 Ask me about Technology, Mathematics & Physics
-- 📫 How to reach me: Twitter: @iamroshanlam
 - ⚡ Fun facts: I first learned to code when I was 8 years old
 
 <br />
