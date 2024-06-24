@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=roshanlam&label=Views&color=blue&style=plastic" alt="roshanlam" /> </p>
 
 - 🏫 I recently graduated with a B.S in CS from University of Massachusetts Amherst.
-- 👯 I’m looking to collaborate on Projects.
+- 👯 I’m actively looking for job opportunities. 
 - 💬 Ask me about Technology, Mathematics & Physics
 
 <br />
