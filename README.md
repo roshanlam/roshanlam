@@ -5,7 +5,7 @@
 
 - 🏫 I recently graduated with a B.S in CS from University of Massachusetts Amherst.
 - 👯 I’m actively looking for job opportunities. 
-- 💬 Ask me about Technology, Mathematics & Physics
+- 💬 Ask me about Technology and Coding! 
 
 <br />
 <p align="center"> <a><img src="https://github-profile-trophy.vercel.app/?username=roshanlam" alt="roshanlam" /></a> </p>
